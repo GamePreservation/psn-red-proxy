@@ -12,6 +12,12 @@ It is based on [PSX Download Helper](https://github.com/KOPElan/PSX-Download-Hel
 - Files in local folder can be organized in subfolders
 
 
+Requirements
+------------
+
+Built on .NET Framework 4.5.2. Tested on Windows 10. Other configurations are untested.
+
+
 Usage
 -----
 
@@ -89,4 +95,4 @@ Known Issues
 Credits
 -------
 
-PSN Redirecting Proxy is based on on the source of [PSX Download Helper](https://github.com/KOPElan/PSX-Download-Helper).
+PSN Redirecting Proxy is based on the source of [PSX Download Helper](https://github.com/KOPElan/PSX-Download-Helper).
